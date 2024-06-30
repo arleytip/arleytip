@@ -8,4 +8,5 @@
   <img allign= "center" alt= "Arley-JavaScript" height= '30em' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
   <img allign= "center" alt= "Arley-HTML" height= '30em' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
   <img allign= "center" alt= "Arley-CSS" height= '30em' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg">
+  <img allign= "center" alt= "Arley-CSS" height= '30em' width='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
